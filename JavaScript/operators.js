@@ -34,3 +34,24 @@ console.log(1=='1')
 
 // strict equality
 console.log(1==='1')
+
+// inequaltiy
+console.log(1!='1')
+console.log(1!='2')
+
+// strict inequality
+console.log(1!=='1')
+
+
+// comparative
+console.log(3>4)
+
+// logical operator
+
+console.log(3>4 || true)
+console.log(3>4 && true)
+console.log(true^false)
+
+// bitwise operators
+console.log(10 & 6)
+console.log(10|6)
